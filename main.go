@@ -16,7 +16,6 @@ import (
 	"github.com/spitefulgrog/nagflux/target/file/json"
 	"github.com/spitefulgrog/nagflux/target/influx"
 	"github.com/kdar/factorlog"
-	"github.com/prometheus/client_golang/prometheus/promhttp"
 	"os"
 	"os/signal"
 	"syscall"
